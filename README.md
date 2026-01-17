@@ -18,6 +18,6 @@ A simple Contact Notebook application built using Python that demonstrates file 
 ✔️Improving logical thinking and problem-solving skills
 
 # Expected output
-![add contact](add.png)
-![view contact](view.png)
-![delete conntact](delete.png)
+![add contact](screenshots/add.png)
+![view contact](screenshots/view.png)
+![delete contact](screenshots/delete.png)
